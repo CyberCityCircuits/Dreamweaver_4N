@@ -134,7 +134,7 @@ void check_knobs(){
   note_2   = value_knob_2 / conv_factor;
   note_3   = value_knob_3 / conv_factor;
   note_4   = value_knob_4 / conv_factor;
-  duration = value_knob_5 + 8;
+  duration = value_knob_5;
   spacing  = value_knob_6;
   
   Serial.print(" Note 1: "); Serial.print(note_1); Serial.print(" - "); Serial.print(digitalRead(switch_1));
