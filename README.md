@@ -1,6 +1,6 @@
 # DREAMWEAVER 4N
 
-*Hello!*  Welcome to the DREAMWEAVER 4N repo.  The DREAMWEAVER 4N is an Open Source 4 Channel Sequencer or Arpeggiator based on the Arduino architecture.
+*Hello!*  Welcome to the DREAMWEAVER 4N repo.  The DREAMWEAVER 4N is an Open Source 4 Channel Sequencer or Arpeggiator based on the Arduino architecture.  This is something that I have been working on for several months.  If you have any comments or suggestions, I can be reached on Twitter [@MakeAugusta](https://twitter.com/MakeAugusta).
 
 ### Features & Specifications:
 * **Dimensions:** 62 mm x 100 mm (2.45 x 4 in)  
