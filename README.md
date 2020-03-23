@@ -24,10 +24,10 @@
 
 ## Programming the DREAMWEAVER 4N
 Below is a list of all the pins used in the Dreamweaver 4N
-Pin | Description
+**Pin** | **Description**
 ---|-----------
- **0** | Serial Data
- **1** | Serial Data
+ **0** | Serial Data (Reserved)
+ **1** | Serial Data (Reserved)
  **2** | Button 9
  **3** | IO 2 (Digital Only)
  **4** | IO 1/Speaker (Digital Only)
