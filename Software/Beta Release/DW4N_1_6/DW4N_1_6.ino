@@ -30,7 +30,6 @@
 //Pin 19 - Value 4 Knob (Knob 4)
 //Pin 20 - Spread Knob  (Knob 6)
 //Pin 21 - Length Knob  (Knob 5)
-//Pin 22 - 
 
 //defie pins for controller
 int sw_1     = 12;
