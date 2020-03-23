@@ -8,8 +8,9 @@
 #include "pitches.h"  //pitches.h should be in the same folder as this file
 
 //Below is a list of all the pins used in the Dreamweaver 4N
+//Pin  0 - Serial Data
 //Pin  1 - Serial Data
-//Pin  2 - Serial Data
+//Pin  2 - Button 9
 //Pin  3 - IO 2
 //Pin  4 - IO 1
 //Pin  5 - Button 4
