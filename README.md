@@ -23,6 +23,18 @@
 
 
 ## Programming the DREAMWEAVER 4N
+
+### Loading Software onto the DREAMWEAVER 4N
+The DREAMWEAVER 4N can use the **Ardiuno IDE** to write software to it.  The Arduino IDE recognizes the DREAMWEAVER 4N as an **Arduino Nano**.  To set the Arduino IDE to load it change your *board type* in the *Tools* menu.
+* **Tools**
+    * **Board:**
+        * Arduino Nano
+    * **Processor:**
+        * ATmega328P
+
+If you need to download the **Arduino IDE**, use the following link: [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
+
+
 ### Pin Settings
 Below is a list of all the pins used in the Dreamweaver 4N
 **Pin** | **Description**
@@ -49,13 +61,3 @@ Below is a list of all the pins used in the Dreamweaver 4N
 **19** | Knob 4 - Value 4
 **20** | Knob 6 - Spread
 **21** | Knob 5 - Length
-
-### Loading Software onto the DREAMWEAVER 4N
-The DREAMWEAVER 4N can use the **Ardiuno IDE** to write software to it.  The Arduino IDE recognizes the DREAMWEAVER 4N as an **Arduino Nano**.  To set the Arduino IDE to load it change your *board type* in the *Tools* menu.
-* **Tools**
-    * **Board:**
-        * Arduino Nano
-    * **Processor:**
-        * ATmega328P
-
-If you need to download the **Arduino IDE**, use the following link: [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
