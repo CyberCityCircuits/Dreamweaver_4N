@@ -4,6 +4,8 @@
 It features:
 * Atmel ATMEGA328PB-AU Micro-Controller
 * Six Analog Knobs
+    * Four for Setting Note Values
+    * Two for Setting Spread and Length
 * Eight RGB WS2812 LEDs
 * Nine Momentary Push Buttons
 * An On-Board Speaker
