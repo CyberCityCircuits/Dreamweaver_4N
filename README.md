@@ -23,7 +23,7 @@ Pin | Pin Use
  1 | Serial Data
  2 | Serial Data
  3 | IO 2
- 4 | IO 1
+ 4 | IO 1/Speaker
  5 | Button 4
  6 | Button 5
  7 | Button 6
@@ -35,10 +35,10 @@ Pin | Pin Use
 13 | Button 8
 14 | IO 3
 15 | IO 4
-16 | Value 1 Knob (Knob 1)
-17 | Value 2 Knob (Knob 2)
-18 | Value 3 Knob (Knob 3)
-19 | Value 4 Knob (Knob 4)
-20 | Spread Knob  (Knob 6)
-21 | Length Knob  (Knob 5)
+16 | Knob 1 - Value 1
+17 | Knob 2 - Value 2
+18 | Knob 3 - Value 3
+19 | Knob 4 - Value 4
+20 | Knob 6 - Spread
+21 | Knob 5 - Length
 22 | UNUSED
