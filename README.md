@@ -23,7 +23,6 @@
 * **Programming software:** Arduino IDE
 * **Programmer:** On-board CH340G    
 
-
 ## Programming the DREAMWEAVER 4N
 
 ### Loading Software onto the DREAMWEAVER 4N
@@ -41,16 +40,16 @@ If you need to download the **Arduino IDE**, use the following link: [https://ww
 Below is a list of all the pins used in the Dreamweaver 4N
 **Pin** | **Description**
 :---:|:-----------
- **0** | Serial Data (Reserved)
- **1** | Serial Data (Reserved)
- **2** | Button 9
- **3** | IO 2 (Digital Only)
- **4** | IO 1/Speaker (Digital Only)
- **5** | Button 4
- **6** | Button 5
- **7** | Button 6
- **8** | Button 7
- **9** | RGB Data 
+**0**  | Serial Data (Reserved)
+**1**  | Serial Data (Reserved)
+**2**  | Button 9
+**3**  | IO 2 (Digital Only)
+**4**  | IO 1/Speaker (Digital Only)
+**5**  | Button 4
+**6**  | Button 5
+**7**  | Button 6
+**8**  | Button 7
+**9**  | RGB Data 
 **10** | Button 3
 **11** | Button 2
 **12** | Button 1
