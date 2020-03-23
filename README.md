@@ -4,6 +4,9 @@
 
 <img src ="https://github.com/CyberCityCircuits/Dreamweaver_4N/blob/master/Images/1_6_Beta_001.jpg" alt="DW4N 1.6 Beta" width="200">
 
+## **Warning:**
+While, connecting external speakers to the IO port is ideal, if you use headphones **DO NOT** put those headphones on your ears.  The output is too loud.
+
 ### Features & Specifications:
 * **Dimensions:** 62 mm x 100 mm (2.45 x 4 in)  
 * **Weight:**  100 grams (~4 oz.)  
@@ -21,7 +24,7 @@
     * One for Software Reset
     * Nine are Fully Programmable
 * **Programming software:** Arduino IDE
-* **Programmer:** On-board CH340G    
+* **Programmer:** On-Board CH340G    
 
 ## Programming the DREAMWEAVER 4N
 
