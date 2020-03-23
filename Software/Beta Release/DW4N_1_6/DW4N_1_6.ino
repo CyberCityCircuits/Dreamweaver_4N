@@ -31,7 +31,7 @@
 //Pin 20 - Spread Knob  (Knob 6)
 //Pin 21 - Length Knob  (Knob 5)
 
-//defie pins for controller
+//Define pins for controller
 int sw_1     = 12;
 int sw_2     = 11;
 int sw_3     = 10;
@@ -128,7 +128,7 @@ int notes[] = {
     C7
 };
 
-//Minor
+//Minor - A fifth above 'notes'
 int notes5[] = {
 //    C1, D1, E1, F1, G1, A1, B1,
     G2, GS2, AS2, C3, D3, DS3, F3, 
@@ -413,11 +413,11 @@ void setledcolor(int color, int index) {
     g = temp_color - temp_value;    
   }
 
-  if(r < 0) { r = 0; }
+  if(r < 0)   { r = 0; }
   if(r > 255) { r = 255; }
-  if(g < 0) { g = 0; }
+  if(g < 0)   { g = 0; }
   if(g > 255) { g = 255; }
-  if(b < 0) { b = 0; }
+  if(b < 0)   { b = 0; }
   if(b > 255) { b = 255; }
 
   for(int x = 0; x < 8; x++) {
