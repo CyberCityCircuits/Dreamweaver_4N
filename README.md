@@ -24,28 +24,28 @@
 
 ## Programming the DREAMWEAVER 4N
 Below is a list of all the pins used in the Dreamweaver 4N
-Pin | Pin Use
+Pin | Description
 ---|-----------
- 0 | Serial Data
- 1 | Serial Data
- 2 | Button 9
- 3 | IO 2
- 4 | IO 1/Speaker
- 5 | Button 4
- 6 | Button 5
- 7 | Button 6
- 8 | Button 7
- 9 | RGB Data 
-10 | Button 3
-11 | Button 2
-12 | Button 1
-13 | Button 8
-14 | IO 3
-15 | IO 4
-16 | Knob 1 - Value 1
-17 | Knob 2 - Value 2
-18 | Knob 3 - Value 3
-19 | Knob 4 - Value 4
-20 | Knob 6 - Spread
-21 | Knob 5 - Length
-22 | UNUSED
+ **0** | Serial Data
+ **1** | Serial Data
+ **2** | Button 9
+ **3** | IO 2 (Digital Only)
+ **4** | IO 1/Speaker (Digital Only)
+ **5** | Button 4
+ **6** | Button 5
+ **7** | Button 6
+ **8** | Button 7
+ **9** | RGB Data 
+**10** | Button 3
+**11** | Button 2
+**12** | Button 1
+**13** | Button 8
+**14** | IO 3 (Analog/Digital)
+**15** | IO 4 (Analog/Digital)
+**16** | Knob 1 - Value 1
+**17** | Knob 2 - Value 2
+**18** | Knob 3 - Value 3
+**19** | Knob 4 - Value 4
+**20** | Knob 6 - Spread
+**21** | Knob 5 - Length
+
