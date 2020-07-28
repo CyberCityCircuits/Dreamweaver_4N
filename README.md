@@ -34,7 +34,7 @@ The DREAMWEAVER 4N can use the **Ardiuno IDE** to write software to it.  The Ard
     * **Board:**
         * Arduino Nano
     * **Processor:**
-        * ATmega328PB-AU
+        * ATmega328P
 
 If you need to download the **Arduino IDE**, use the following link: [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
 
