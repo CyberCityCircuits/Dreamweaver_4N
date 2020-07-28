@@ -206,8 +206,8 @@ void loop(){
   //  }
   //}
 
-  Serial.print(" Brightness: ");
-  Serial.println(brightness);
+  //Serial.print(" Brightness: ");
+  //Serial.println(brightness);
 
   strip.setBrightness(brightness);
   strip.show();
